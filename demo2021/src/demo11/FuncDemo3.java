@@ -1,5 +1,8 @@
 package demo11;
 
+/**
+ * 九九乘表表
+ */
 public class FuncDemo3 {
     public static void main(String[] args) {
         for (int i = 1; i <= 9; i++) {
