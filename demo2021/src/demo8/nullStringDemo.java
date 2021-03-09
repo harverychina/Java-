@@ -19,5 +19,6 @@ public class nullStringDemo {
          * 空字符串对象与null的值不相等，且内存地址也不相等；
          * new String()创建一个字符串对象的默认值为"" (String类型成员变量的初始值为null)
          */
+
     }
 }
