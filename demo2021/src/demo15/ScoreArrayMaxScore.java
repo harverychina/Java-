@@ -1,6 +1,6 @@
 package demo15;
 
-public class ScoreArrayMaxSocre {
+public class ScoreArrayMaxScore {
     public static void main(String[] args) {
 //        每门课程对应索引
         int YuWen = 0;
