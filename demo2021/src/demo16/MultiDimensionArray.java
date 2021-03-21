@@ -1,6 +1,6 @@
 package demo16;
 
-public class MulitDimensionArray {
+public class MultiDimensionArray {
     public static void main(String[] args) {
         double[][] multiDimensionArr = new double[3][5];
 
