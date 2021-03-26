@@ -26,7 +26,8 @@ public class RunLittleSupperMarketAppMain {
             m.id = "ID" + i;
             m.name = "商品" + i;
             m.purrchasePrice = Math.random() * 200;
-            m.soldPrice = (1 + Math.random()) * 200;
+            m.soldPrice = m.purrchasePrice * (1 + Math.random());
+//            m.soldPrice =(1 + Math.random()) * 200;
             all[i] = m;
         }
 
